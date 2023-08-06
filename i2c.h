@@ -12,7 +12,7 @@
 extern "C" {
 #endif
 
-#include "common.h"
+//#include "common.h"
 
 void I2C_Initialize(const unsigned long feq_K); //begin I2C as master
 
